@@ -1,2 +1,2 @@
-# Techdegree-profile-project
- My techdegree profile project
+# Techdegree-Profile-Project
+ My techdegree Profile Project
